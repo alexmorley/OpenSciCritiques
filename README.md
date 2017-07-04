@@ -8,6 +8,7 @@ ToDo
 Yoav Goldberg discusses the issues around "flag planting" in first section of [this article](https://medium.com/@yoav.goldberg/an-adversarial-review-of-adversarial-generation-of-natural-language-409ac3378bd7). 
 ^ also been dicussions about the tone of this review.
 
+Issues with people just posting abstracts. Or whole papers but no methods. Overarching theme *does lack of quality control diminish the importance of pre-prints?* Or highlight the need for overlay journals?
 
 ## Open Evaluation (+preprints)
 Dicussion on twitter - centres around should we allow public access to "unfiltered" science. Issues with media/journalists hopping on anything. - Is this more of a problem with OA/OE givent that some journals will publish anything anyway? 
